@@ -29,4 +29,14 @@ ASISS:
 <br>
 <img width="370" alt="AVG_ASISS" src="https://github.com/user-attachments/assets/a1a6872a-37e8-4544-b07a-0006922db7d3" />
 
+Correlation insights:
+- Social Connectedness & Acculturative Stress: Very strong negative correlation (-0.98) → More acculturative stress is tied to lower social connectedness.
+- Stay & Acculturative Stress (ASISS): Strong positive correlation (+0.97) → Longer stays are associated with higher acculturative stress.
+- Stay & Social Connectedness (SCS): Strong negative correlation (-0.92) → Longer stays are linked to lower social connectedness.
+- Stay & Depression (PHQ-9): Moderate negative correlation (-0.61) → Longer stays may slightly reduce depression, but the trend is not as strong.
+
+<img width="517" alt="CorrMatrix" src="https://github.com/user-attachments/assets/f95898f4-2334-4415-a043-dd87deb1f99e" />
+
+  
+
 
